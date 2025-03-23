@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/siddhant_0808_" target="blank"><img src="https://img.shields.io/twitter/follow/siddhant_0808_?logo=twitter&style=for-the-badge" alt="siddhant_0808_" /></a> </p>
 
-- 🌱 I’m currently learning **Servlet,JSP,Spring,Springboot,RestAPI,Angular**
+- 🌱 Currently I'm learning **Servlet,JSP,Spring,Springboot,RestAPI,Angular**
 
 - 💬 Ask me about **C,SQL, PostgreSQL, HTML, CSS, JS, Jquery, Corejava, JDBC**
 
