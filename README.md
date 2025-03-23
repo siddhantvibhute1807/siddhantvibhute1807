@@ -9,11 +9,11 @@
 
 - 🌱 Currently I'm learning **Servlet,JSP,Spring,Springboot,RestAPI,Angular**
 
-- 💬 Ask me about **C,SQL, PostgreSQL, HTML, CSS, JS, Jquery, Corejava, JDBC**
+- 💬 Ask me about : **C,SQL, PostgreSQL, HTML, CSS, JS, Jquery, Corejava, JDBC**
 
-- 📫 How to reach me **siddhantvibhute1807@gmail.com**
+- 📫 How to reach me : **siddhantvibhute1807@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
+- ⚡ Fun fact : **I am Funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
